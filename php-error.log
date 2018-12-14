@@ -1,0 +1,6 @@
+[11-Dec-2018 03:30:01 UTC] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/vagrant/shared/common.php on line 3
+[11-Dec-2018 03:30:01 UTC] PHP Stack trace:
+[11-Dec-2018 03:30:01 UTC] PHP   1. {main}() /home/vagrant/shared/common.php:0
+[11-Dec-2018 03:30:01 UTC] PHP   2. phpinfo() /home/vagrant/shared/common.php:3
+[11-Dec-2018 03:30:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/vagrant/shared/webroot/index.php on line 21
+[11-Dec-2018 12:39:16 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '{' in /home/vagrant/shared/webroot/index.php on line 21

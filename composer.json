@@ -1,0 +1,8 @@
+{
+    "name": "MyApp",
+    "description": "login",
+    "require": {
+        "php": ">=7.1.25",
+        "smarty/smarty": "~3.1"
+    }
+}
